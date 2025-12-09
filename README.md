@@ -7,5 +7,4 @@ My projects primarily involve Python3 and Java, with Docker being a key componen
 
 Recently, I've been exploring the inner workings of Android, including reverse engineering several applications and creating mods that make use of root privileges.
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jacopotediosi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jacopotediosi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+![GitHub Card](https://githubcard.com/jacopotediosi.svg?d=vdvZUxRo)
