@@ -1,10 +1,13 @@
 ### Hi 👋
-I'm Jacopo Tediosi, an Italian full-time penetration tester with a passion for cybersecurity.
 
-In my free time, I enjoy participating in bug bounty programs as both a triager and hunter.
+I'm Jacopo Tediosi, an Italian full-time penetration tester with a passion for tech and cybersecurity.
 
-My projects primarily involve Python3 and Java, with Docker being a key component of my workflow. I'm also a big fan of NGINX.
+In my free time, I enjoy contributing to open source projects and hunting for vulnerabilities in real-world systems.
 
-Recently, I've been exploring the inner workings of Android, including reverse engineering several applications and creating mods that make use of root privileges.
+I'm comfortable working with Python3, Java, Docker, and Nginx.
+
+I previously spent time reverse engineering Android applications and developing mods using root privileges and LSPosed modules.
+
+Currently, I'm most active in the 3D printing community, doing my best to contribute to the [OctoPrint](https://github.com/OctoPrint/OctoPrint) and its plugin ecosystem.
 
 ![GitHub Card](https://githubcard.com/jacopotediosi.svg?d=vdvZUxRo)
