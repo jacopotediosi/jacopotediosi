@@ -8,6 +8,6 @@ I'm comfortable working with Python3, Java, Docker, and Nginx.
 
 I previously spent time reverse engineering Android applications and developing mods using root privileges and LSPosed modules.
 
-Currently, I'm most active in the 3D printing community, doing my best to contribute to the [OctoPrint](https://github.com/OctoPrint/OctoPrint) and its plugin ecosystem.
+Currently, I'm most active in the 3D printing community, doing my best to contribute to [OctoPrint](https://github.com/OctoPrint/OctoPrint) and its plugin ecosystem.
 
 ![GitHub Card](https://githubcard.com/jacopotediosi.svg?d=vdvZUxRo)
